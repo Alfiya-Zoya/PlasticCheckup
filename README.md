@@ -17,3 +17,4 @@ The Plastic Classification App is a machine learning application that uses a tra
 - Streamlit
 - PIL (Python Imaging Library)
 
+## Results
