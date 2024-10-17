@@ -1,7 +1,4 @@
-# TechHeads
-
-# Project Title
-
+# PlasticCheckup
 Plastic Classification App
 
 ## Project Description
