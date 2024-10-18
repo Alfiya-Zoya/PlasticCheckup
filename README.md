@@ -36,6 +36,7 @@ So we will be collecting plastic waste from government or NGO's, segregate it an
 
 ## Architecture
 ![WhatsApp Image 2024-05-19 at 21 48 11_5dfa546d](https://github.com/user-attachments/assets/1a459186-d574-410c-be80-6c359a0c7d00)
+<br>
 ![WhatsApp Image 2024-05-19 at 21 53 38_7caf5c9a](https://github.com/user-attachments/assets/055823e8-1269-4c85-bf88-f338bb8452a4)
 
 ## Results
